@@ -1,14 +1,14 @@
-/* @font-face {
+@font-face {
     font-family: 'gameFont';
-    src: url('./asset/font/Pony.ttf');
+    src: url('../../font/Pony.ttf');
 }
 
 .game__wrapper {
     font-family: 'gameFont';
-    background: url('./asset/img/bgGame.png');
+    background: url('../../img/bgGame.png');
     position: fixed;
     width: 100%;
     height: 100%;
     top: 0;
     left: 0;
-} */
+}
